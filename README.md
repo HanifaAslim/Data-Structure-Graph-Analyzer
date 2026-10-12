@@ -109,7 +109,7 @@ As specified in **Section 5 & 6 (Suggested Team Responsibilities)** of the assig
 
 🎬 **Camera Action**: Look directly into webcam with face clearly visible.
 🗣️ **What to Say**:
-> *"Hello everyone and hello to our lecturer. My name is **[Member 2 Full Name]**, Student ID **[Member 2 Student ID]**.  
+> *"Hello everyone and hello to our lecturer. My name is **M.S.F. Noaf**, Student ID **23DA2-0975**.  
 > In our 3-member group, my assigned responsibility was implementing the core linear data structures: the **Stack**, the **Circular Queue**, and the **Singly Linked List** in `StackOperations.java`, `QueueOperations.java`, and `LinkedListOperations.java`."*
 
 ---
@@ -181,7 +181,7 @@ As specified in **Section 5 & 6 (Suggested Team Responsibilities)** of the assig
 
 🎬 **Camera Action**: Look directly into webcam with face clearly visible.
 🗣️ **What to Say**:
-> *"Hello everyone and hello to our lecturer. My name is **[Member 3 Full Name]**, Student ID **[Member 3 Student ID]**.  
+> *"Hello everyone and hello to our lecturer. My name is **M.R.F. Sara**, Student ID **23DA2-0679**.  
 > For our 3-member team, I was responsible for the mandatory **Graph Component** and its traversal algorithms in `Graph.java`, as well as the **Performance Analyzer and Algorithmic Complexity Benchmarks** in `PerformanceAnalyzer.java`."*
 
 ---
